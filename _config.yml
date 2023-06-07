@@ -317,7 +317,7 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: /static/avatar.png
+        avatar: /static/avatar_small.png
         name: 坊洛
         url: /
       # 文章创建日期
@@ -559,7 +559,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: /static/avatar.png
+      avatar: /static/avatar_small.png
       shape: rectangle # circle, rectangle
       url: /about/
       title: 雪沢 坊洛
@@ -1318,7 +1318,7 @@ seo:
 # https://ogp.me/
 # https://hexo.io/zh-cn/docs/helpers#open-graph
 open_graph:
-  image: /static/avatar.png
+  image: /static/avatar_small.png
   twitter_card: summary # summary_large_image , summary
   #twitter_id:
   #twitter_site:
@@ -1339,7 +1339,7 @@ structured_data:
     organization:
       name: CuteNeko
     logo:
-      path: /static/avatar.png
+      path: /static/avatar_small.png
       width: 600
       height: 600
 ############################### Structured Data ############################### > end
