@@ -402,7 +402,7 @@ comments:
   # https://github.com/laymonage/giscus
   giscus:
     # 以下配置按照 yml 格式增删填写即可
-    repo: "YukisawaNya/YukisawaNya.github.io"
+    repo: "MeowBot233/MeowBot233.github.io"
     repo-id: "R_kgDOI4BE3Q"
     category: "评论区！"
     category-id: "DIC_kwDOI4BE3c4CVacT"
@@ -562,18 +562,18 @@ sidebar:
       avatar: /static/avatar_small.png
       shape: rectangle # circle, rectangle
       url: /about/
-      title: 雪沢 坊洛
+      title: 喵喵喵 坊洛
       subtitle: 是可爱的坊洛酱~
       jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
         - icon: fa-solid fa-envelope
           url: mailto:fangluo@fangluo.top
         - icon: fab fa-github
-          url: https://github.com/YukisawaNya/
+          url: https://github.com/MeowBot233/
         - icon: fab fa-twitter
-          url: https://twitter.com/YukisawaNya/
+          url: https://twitter.com/MeowBot233/
         - icon: fab fa-telegram
-          url: https://t.me/YukisawaNya/
+          url: https://t.me/MeowBot233/
         - icon: fab fa-mastodon
           url: https://nekoland.fangluo.top/@fangluo
           rel: me
